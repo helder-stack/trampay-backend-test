@@ -11,23 +11,32 @@ Teste para vaga de desenvolvedor fullstack na empresa Trampay.
 
 Para a instalação, realize a inserção de um arquivo .env com as configurações necessárias.
 
-## Configuraç
+## Configuração para o postgresql
+
 PG_PASS=
+
 PG_DB=
+
 PG_USER=
+
 PG_HOST=
 
 ## Número do salt do bcrypt para a criptografia das senhas
+
 BCRYPT_SALT=
 
 ## Uma chave para o JWT
+
 JWT_SECRET=
 
 ## As configurações do provedor de e-mail que irá ser utilizado.
 
 MAILER_HOST=
+
 MAILER_PORT =
+
 MAILER_USER = 
+
 MAILER_PASS =
 
 ## Running the app
