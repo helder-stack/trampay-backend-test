@@ -11,7 +11,7 @@ Teste para vaga de desenvolvedor fullstack na empresa Trampay.
 
 Para a instalação, realize a inserção de um arquivo .env com as configurações necessárias.
 
-## Aqui pode inserir da forma que desejar
+## Configuraç
 PG_PASS=
 PG_DB=
 PG_USER=
